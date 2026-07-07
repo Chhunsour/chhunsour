@@ -1,4 +1,4 @@
-<h1 align="center">Seng Chhunsour AKA Den</h1>
+<h1 align="center">Hi there👋 i'm Seng Chhunsour AKA Den</h1>
 
 <p align="center"><strong>Full-Stack Web Developer</strong></p>
 <p align="center">Front-End &nbsp;·&nbsp; Full-Stack Systems &nbsp;·&nbsp; E-Commerce &nbsp;·&nbsp; UI/UX Design</p>
@@ -110,7 +110,7 @@ Additional live e-commerce websites I've designed and built, mostly in the heavy
 
 | Website | Focus | Live |
 |---|---|---|
-| Machinery Online | Heavy machinery e-commerce | [machineryonline.online](https://machineryonline.online) |
+| Machinery Online | Heavy machinery e-commerce | [machineryusa.online](https://machineryonline.online) |
 | Machinery.org | Heavy machinery e-commerce | [machinery.org](https://machinery.org) |
 | Tiny Excavator | Mini excavator e-commerce | [tinyexcavator.com](https://tinyexcavator.com) |
 | New Excavators For Sale | Excavator e-commerce | [newexcavatorsforsale.com](https://newexcavatorsforsale.com) |
@@ -122,8 +122,7 @@ Additional live e-commerce websites I've designed and built, mostly in the heavy
 ## Currently Exploring
 
 - AI agent workflows
-- LLM API integration
-- AI image generation APIs
+- DevOps
 - Backend architecture
 - CI/CD pipelines
 - Production monitoring
