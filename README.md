@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Building modern websites, e-commerce platforms, and internal business systems.
+  I build modern websites, e-commerce platforms, dashboards, and internal business systems.
 </p>
 
 <p align="center">
@@ -14,66 +14,98 @@
 
 <p align="center">
   <a href="https://chhunsour-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-View_Work-F97316?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-View_Work-F97316?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://t.me/ChhunsourSENG">
-    <img src="https://img.shields.io/badge/Telegram-Contact_Me-229ED9?style=for-the-badge&logo=telegram&logoColor=white">
+    <img src="https://img.shields.io/badge/Telegram-Contact_Me-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
 
 ---
 
-## About
+## About Me
 
 I combine software development and UI/UX design to create clean, responsive, and practical digital products.
 
-My experience includes e-commerce websites, dashboards, authentication systems, databases, and internal workflow tools.
+My experience includes production websites, e-commerce platforms, authentication systems, databases, dashboards, and team workflow tools.
 
 ---
 
 ## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,ts,tailwind,supabase,postgres,django,figma,git" alt="Tech Stack">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,vite,nodejs,python,django,php,laravel,supabase,postgres,wordpress,figma,git,github,vercel,cloudflare,vscode&perline=12" alt="Technology Stack">
+</p>
+
+<p align="center">
+  <strong>Frontend</strong><br>
+  HTML · CSS · JavaScript · TypeScript · React · Next.js · Vue.js · Quasar · Tailwind CSS
+</p>
+
+<p align="center">
+  <strong>Backend & Database</strong><br>
+  Node.js · Python · Django · PHP · Laravel · Supabase · PostgreSQL
+</p>
+
+<p align="center">
+  <strong>Design & Tools</strong><br>
+  Figma · Git · GitHub · Vercel · Cloudflare · WordPress · VS Code
 </p>
 
 ---
 
 ## Featured Projects
 
-### [KonstructZ](https://konstructz.com)
+### 🚜 [KonstructZ](https://konstructz.com)
 
-Heavy-machinery e-commerce platform with responsive pages, multilingual support, animations, and product management.
+A heavy-machinery e-commerce platform with responsive product pages, category navigation, animations, multilingual support, and product management.
 
-`Next.js` `TypeScript` `E-Commerce`
+`Next.js` `TypeScript` `E-Commerce` `UI/UX`
 
-### [KiuQ Workflow System](https://matrix.kiuq.net)
+### 📋 [KiuQ Workflow System](https://matrix.kiuq.net)
 
-Internal platform for managing projects, tasks, team members, reports, documents, and notifications.
+An internal platform for managing website projects, tasks, team members, reports, documents, notifications, and daily workflows.
 
-`Vue 3` `Supabase` `TypeScript`
+`Vue 3` `TypeScript` `Supabase`
 
-### [Personal Portfolio](https://chhunsour-portfolio.vercel.app/)
+### 👨‍💻 [Personal Portfolio](https://chhunsour-portfolio.vercel.app/)
 
-A showcase of my development experience, design work, and production projects.
+A modern portfolio showcasing my development experience, design background, skills, and selected production projects.
 
-`Portfolio` `UI/UX` `Web Development`
+`Web Development` `UI/UX` `Portfolio`
 
 ---
 
 ## Selected Websites
 
-[Machinery Online](https://machineryonline.online) ·
-[Machinery.org](https://machinery.org) ·
-[Tiny Excavator](https://tinyexcavator.com) ·
-[New Mini Excavator](https://newminiexcavator.com)
+<p align="center">
+  <a href="https://machineryonline.online">Machinery Online</a> ·
+  <a href="https://machinery.org">Machinery.org</a> ·
+  <a href="https://tinyexcavator.com">Tiny Excavator</a> ·
+  <a href="https://newexcavatorsforsale.com">New Excavators for Sale</a> ·
+  <a href="https://newminiexcavator.com">New Mini Excavator</a> ·
+  <a href="https://darilaofficial.com">Darila Official</a>
+</p>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Denvor369&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=C9D1D9" alt="GitHub Statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denvor369&layout=compact&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=C9D1D9" alt="Most Used Languages">
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Denvor369&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=C9D1D9" alt="GitHub Statistics">
+  <strong>Open to full-stack development opportunities and creative collaborations.</strong>
 </p>
 
 <p align="center">
-  Open to full-stack development opportunities and creative collaborations.
+  <a href="https://chhunsour-portfolio.vercel.app/">Portfolio</a>
+  ·
+  <a href="https://github.com/Denvor369">GitHub</a>
+  ·
+  <a href="https://t.me/ChhunsourSENG">Telegram</a>
 </p>
