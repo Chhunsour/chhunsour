@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/seng-hero.svg" width="100%" alt="Animated Seng Chhunsour developer banner">
+<img src="./seng-hero.svg" width="100%" alt="Animated Seng Chhunsour developer banner">
 
 <br>
 
