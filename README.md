@@ -1,107 +1,147 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:06214E,100:FC6E00&text=Seng%20Chhunsour&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Product%20Builder%20%7C%20UI%2FUX%20Designer&descAlignY=58&animation=fadeIn" width="100%" alt="Seng Chhunsour Header"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=FC6E00&center=true&vCenter=true&width=750&lines=Building+Telegram+Mini+Apps;Creating+SaaS+and+Business+Systems;Designing+Modern+Digital+Products;Turning+Ideas+Into+Real+Applications" alt="Typing Animation"/>
-</a>
+<img src="./assets/seng-hero.svg" width="100%" alt="Animated Seng Chhunsour developer banner">
 
 <br>
 
 <a href="https://chhunsour-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-FC6E00?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-VIEW_WORK-FC6E00?style=for-the-badge&logo=vercel&logoColor=white&labelColor=06214E" alt="Portfolio">
+</a>
+<a href="https://tovmuk.vercel.app/">
+  <img src="https://img.shields.io/badge/TOVMUK-SOLUTIONS-FC6E00?style=for-the-badge&logo=telegram&logoColor=white&labelColor=06214E" alt="TovMuk Solution">
 </a>
 <a href="https://t.me/ChhunsourSENG">
-  <img src="https://img.shields.io/badge/Telegram-Let's%20Connect-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-<a href="https://github.com/Denvor369?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-View%20Repositories-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/TELEGRAM-CONTACT-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=06214E" alt="Telegram">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Denvor369&label=PROFILE+VIEWS&color=FC6E00&style=flat-square" alt="Profile Views"/>
+<strong>Full-stack developer building polished digital products from idea to deployment.</strong>
+
+<br>
+
+<sub>Web · Mobile · Backend · Database · UI/UX · Product Development</sub>
+
+<br><br>
+
+<kbd>Telegram Mini Apps</kbd> <kbd>SaaS Platforms</kbd> <kbd>E-Commerce</kbd> <kbd>Business Systems</kbd>
 
 </div>
 
-## ⚡ About Me
+---
 
-```ts
-const sengChhunsour = {
-  location: "Phnom Penh, Cambodia 🇰🇭",
-  role: ["Full-Stack Developer", "Product Builder", "UI/UX Designer"],
-  building: [
-    "Telegram Mini Apps",
-    "SaaS Platforms",
-    "Mobile Applications",
-    "E-Commerce & Business Systems"
-  ],
-  mission: "Build useful products that solve real business problems."
-};
-```
+## ⚡ What I Build
 
-## 🧩 Current Focus
+<table>
+<tr>
+<td width="33%" align="center">
+<h3>📱 Mini Apps</h3>
+Telegram storefronts with products, carts, orders, payments, and admin management.
+</td>
+<td width="33%" align="center">
+<h3>⚙️ Business Systems</h3>
+Attendance, workflow, management, reporting, and multi-tenant SaaS platforms.
+</td>
+<td width="33%" align="center">
+<h3>✨ Digital Products</h3>
+Modern websites, mobile applications, dashboards, and e-commerce platforms.
+</td>
+</tr>
+</table>
+
+## 🚀 Featured Builds
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 Building
+### [TovMuk Solution](https://tovmuk.vercel.app/)
 
-* Employee attendance SaaS
-* Telegram Mini App stores
-* E-commerce platforms
-* Admin and management systems
+Telegram Mini Apps, online stores, websites, and practical digital systems for Cambodian businesses.
+
+`Mini Apps` `Full-Stack` `UI/UX`
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Exploring
+### Attendance SaaS
 
-* Multi-tenant architecture
-* Mobile app development
-* AI-assisted development
-* Product and system design
+A multi-tenant mobile attendance platform with scheduling, GPS, Wi-Fi verification, leave, payroll, and HR management.
+
+`React Native` `Nuxt` `Supabase`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [KonstructZ](https://konstructz.com)
+
+A multilingual heavy-machinery e-commerce platform with responsive product management and modern interactions.
+
+`Next.js` `TypeScript` `E-Commerce`
+
+</td>
+<td width="50%" valign="top">
+
+### [KiuQ Workflow](https://matrix.kiuq.net)
+
+An internal system for projects, tasks, reports, documents, team members, and daily operations.
+
+`Vue 3` `TypeScript` `Supabase`
 
 </td>
 </tr>
 </table>
 
-## 🛠️ Tech Arsenal
+## 🧰 Technology
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nuxt,vite,tailwind,nodejs,php,laravel,py,django,supabase,postgres,figma,git,github,vercel,cloudflare,vscode&perline=11" alt="Technology Stack"/>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nuxtjs,vite,tailwind,nodejs,php,laravel,py,django,supabase,postgres,figma,git,github,vercel,cloudflare,vscode&perline=11" alt="Technology stack">
 
 </div>
 
-## 🔥 Featured Builds
-
-| Project                                                  | Description                                       | Stack                |
-| -------------------------------------------------------- | ------------------------------------------------- | -------------------- |
-| [**KonstructZ**](https://konstructz.com)                 | Heavy-machinery e-commerce platform               | Next.js · TypeScript |
-| [**KiuQ Workflow**](https://matrix.kiuq.net)             | Internal project and team management system       | Vue · Supabase       |
-| [**TovMuk Solution**](https://tovmuk.vercel.app/)        | Telegram Mini Apps and digital business solutions | Full-Stack · UI/UX   |
-| [**Portfolio**](https://chhunsour-portfolio.vercel.app/) | Selected development and design work              | Web · Product Design |
-
-## 📊 Developer Activity
+## 📡 Development Signal
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Denvor369&show_icons=true&hide_border=true&theme=transparent&title_color=FC6E00&icon_color=FC6E00&text_color=8B949E" alt="GitHub Stats"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Denvor369&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FC6E00&icon_color=FC6E00&text_color=C9D1D9&ring_color=FC6E00" alt="GitHub statistics">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denvor369&layout=compact&hide_border=true&theme=transparent&title_color=FC6E00&text_color=8B949E" alt="Top Languages"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Denvor369&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FC6E00&text_color=C9D1D9" alt="Most used languages">
+
+<br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Denvor369&bg_color=0D1117&color=C9D1D9&line=FC6E00&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Flow" alt="Contribution activity graph">
 
 </div>
 
+<details>
+<summary><strong>🌐 More production websites</strong></summary>
+
+<br>
+
+[Machinery Online](https://machineryonline.online) ·
+[Machinery.org](https://machinery.org) ·
+[Tiny Excavator](https://tinyexcavator.com) ·
+[New Excavators for Sale](https://newexcavatorsforsale.com) ·
+[Darila Official](https://darilaofficial.com)
+
+</details>
+
+---
+
 <div align="center">
 
-### Let’s build something useful.
+### Turning ideas into useful products.
 
-[Portfolio](https://chhunsour-portfolio.vercel.app/) ·
-[GitHub](https://github.com/Denvor369) ·
-[Telegram](https://t.me/ChhunsourSENG)
+<a href="https://chhunsour-portfolio.vercel.app/">Portfolio</a>
+ ·  <a href="https://github.com/Denvor369?tab=repositories">Projects</a>
+ ·  <a href="https://t.me/ChhunsourSENG">Telegram</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:FC6E00,100:06214E&section=footer" width="100%" alt="Footer"/>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Denvor369&label=PROFILE+VISITORS&color=FC6E00&style=flat-square" alt="Profile visitors">
 
 </div>
