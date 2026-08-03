@@ -1,26 +1,26 @@
-<h1 align="center">Hi, I'm Seng Chhunsour 👋</h1>
+<h1 align="center">Seng Chhunsour</h1>
 
 <p align="center">
-  <strong>Full-Stack Web Developer · UI/UX Designer</strong>
+  <strong>Full-Stack Developer · Product Builder · UI/UX Designer</strong>
 </p>
 
 <p align="center">
-  I build modern websites, e-commerce platforms, dashboards, and internal business systems.
+  Building modern websites, Telegram Mini Apps, mobile applications, dashboards, and business management systems.
 </p>
 
 <p align="center">
-  Phnom Penh, Cambodia 🇰🇭
+  📍 Phnom Penh, Cambodia 🇰🇭
 </p>
 
 <p align="center">
   <a href="https://chhunsour-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-View_My_Work-F97316?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-View_Work-FC6E00?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://github.com/Denvor369">
     <img src="https://img.shields.io/badge/GitHub-Denvor369-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://t.me/ChhunsourSENG">
-    <img src="https://img.shields.io/badge/Telegram-Contact_Me-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-Contact-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
 
@@ -28,114 +28,132 @@
 
 ## About Me
 
-I combine software development and UI/UX design to create clean, responsive, and practical digital products.
+I am a Cambodian full-stack developer who combines **software development, product thinking, and UI/UX design** to create practical digital products.
 
-My experience includes production websites, e-commerce platforms, authentication systems, databases, dashboards, and internal team workflow tools.
+I work across the full development process—from planning interfaces and database structures to building, deploying, and maintaining production applications.
 
----
+My current focus includes:
 
-## Tech Stack
+* Telegram Mini Apps and online stores
+* SaaS and multi-tenant business platforms
+* E-commerce websites and marketplaces
+* Mobile applications and admin dashboards
+* Attendance, workflow, and internal management systems
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,tailwind,nodejs,py,django,php,laravel,supabase,postgres,wordpress,godot,figma,ps,ai,git,github,vercel,cloudflare,vscode&perline=13" alt="Technology Stack">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger">
-</p>
-
-<p align="center">
-  <strong>Frontend</strong><br>
-  HTML · CSS · JavaScript · TypeScript · React · Next.js · Vue.js · Quasar · Tailwind CSS
-</p>
-
-<p align="center">
-  <strong>Backend & Database</strong><br>
-  Node.js · Python · Django · PHP · Laravel · Supabase · PostgreSQL
-</p>
-
-<p align="center">
-  <strong>Design & Creative</strong><br>
-  Figma · Adobe Photoshop · Adobe Illustrator
-</p>
-
-<p align="center">
-  <strong>Game Development</strong><br>
-  Godot Engine
-</p>
-
-<p align="center">
-  <strong>Tools & Platforms</strong><br>
-  Git · GitHub · WordPress · Vercel · Cloudflare · Hostinger · VS Code
-</p>
+I am also studying **Information Technology at Western University** while continuing to build real-world products and improve my backend and system architecture skills.
 
 ---
 
-## Featured Projects
+## Technology Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,vite,tailwind,nodejs,php,laravel,py,django,supabase,postgres,figma,git,github,vercel,cloudflare,vscode&perline=10" alt="Technology Stack">
+</p>
+
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Frontend & Mobile</strong><br><br>
+      TypeScript · JavaScript · React<br>
+      Next.js · Vue.js · Nuxt<br>
+      React Native · Expo<br>
+      Tailwind CSS · HTML · CSS
+    </td>
+    <td valign="top" width="50%">
+      <strong>Backend & Database</strong><br><br>
+      Laravel · PHP · Node.js<br>
+      Python · Django<br>
+      Supabase · PostgreSQL<br>
+      Authentication · REST APIs · RLS
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>Design & Product</strong><br><br>
+      Figma · UI/UX Design<br>
+      Responsive Design<br>
+      Design Systems · Prototyping<br>
+      Photoshop · Illustrator
+    </td>
+    <td valign="top">
+      <strong>Tools & Deployment</strong><br><br>
+      Git · GitHub · VS Code<br>
+      Vercel · Cloudflare<br>
+      Hostinger · WordPress<br>
+      AI-assisted Development
+    </td>
+  </tr>
+</table>
+
+---
+
+## Featured Work
 
 ### 🚜 [KonstructZ](https://konstructz.com)
 
-A modern heavy-machinery e-commerce platform with responsive product pages, category navigation, animations, multilingual support, and product management.
+Heavy-machinery e-commerce platform with responsive product pages, multilingual content, category navigation, animations, and product management.
 
 `Next.js` `TypeScript` `E-Commerce` `UI/UX`
 
 ### 📋 [KiuQ Workflow System](https://matrix.kiuq.net)
 
-An internal platform for managing website projects, tasks, team members, reports, documents, notifications, and daily workflows.
+Internal workflow platform for managing projects, tasks, team members, reports, documents, notifications, and daily operations.
 
-`Vue 3` `TypeScript` `Supabase`
+`Vue 3` `TypeScript` `Supabase` `PostgreSQL`
+
+### 🚀 [TovMuk Solution](https://tovmuk.vercel.app/)
+
+A digital solutions brand focused on Telegram Mini Apps, online stores, websites, payment integrations, and practical systems for Cambodian businesses.
+
+`Telegram Mini Apps` `Business Systems` `UI/UX`
 
 ### 👨‍💻 [Personal Portfolio](https://chhunsour-portfolio.vercel.app/)
 
-A portfolio showcasing my development experience, design background, technical skills, and selected production projects.
+My personal website featuring selected projects, professional experience, technical skills, and development work.
 
-`Web Development` `UI/UX` `Portfolio`
+`Portfolio` `Web Development` `Product Design`
 
 ---
 
-## Selected Websites
+## Currently Building
+
+* A multi-tenant employee attendance SaaS
+* Telegram Mini App storefronts for businesses
+* E-commerce and marketplace platforms
+* Mobile and web-based internal management systems
+
+---
+
+## Selected Production Websites
 
 <p align="center">
   <a href="https://machineryonline.online">Machinery Online</a>
-  ·
+  &nbsp;·&nbsp;
   <a href="https://machinery.org">Machinery.org</a>
-  ·
+  &nbsp;·&nbsp;
   <a href="https://tinyexcavator.com">Tiny Excavator</a>
-  ·
+  &nbsp;·&nbsp;
   <a href="https://newexcavatorsforsale.com">New Excavators for Sale</a>
-  ·
-  <a href="https://newminiexcavator.com">New Mini Excavator</a>
-  ·
+  &nbsp;·&nbsp;
   <a href="https://darilaofficial.com">Darila Official</a>
 </p>
 
 ---
 
-## GitHub Activity
+## Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Denvor369?tab=repositories">
-    <img src="https://img.shields.io/badge/View_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repositories">
-  </a>
-  <a href="https://github.com/Denvor369?tab=overview">
-    <img src="https://img.shields.io/badge/View_My_Contributions-F97316?style=for-the-badge&logo=github&logoColor=white" alt="View contributions">
-  </a>
-</p>
-
-<p align="center">
-  Explore my repositories to see my latest full-stack development, UI/UX, and creative projects.
-</p>
-
----
-
-<p align="center">
-  <strong>Open to full-stack development opportunities and creative collaborations.</strong>
+  Interested in working together, discussing a project, or building a digital product?
 </p>
 
 <p align="center">
   <a href="https://chhunsour-portfolio.vercel.app/">Portfolio</a>
-  ·
-  <a href="https://github.com/Denvor369">GitHub</a>
-  ·
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Denvor369?tab=repositories">Repositories</a>
+  &nbsp;·&nbsp;
   <a href="https://t.me/ChhunsourSENG">Telegram</a>
+</p>
+
+<p align="center">
+  <strong>Building useful products through code, design, and continuous learning.</strong>
 </p>
