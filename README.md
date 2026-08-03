@@ -1,159 +1,107 @@
-<h1 align="center">Seng Chhunsour</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Full-Stack Developer · Product Builder · UI/UX Designer</strong>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:06214E,100:FC6E00&text=Seng%20Chhunsour&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Product%20Builder%20%7C%20UI%2FUX%20Designer&descAlignY=58&animation=fadeIn" width="100%" alt="Seng Chhunsour Header"/>
 
-<p align="center">
-  Building modern websites, Telegram Mini Apps, mobile applications, dashboards, and business management systems.
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=FC6E00&center=true&vCenter=true&width=750&lines=Building+Telegram+Mini+Apps;Creating+SaaS+and+Business+Systems;Designing+Modern+Digital+Products;Turning+Ideas+Into+Real+Applications" alt="Typing Animation"/>
+</a>
 
-<p align="center">
-  📍 Phnom Penh, Cambodia 🇰🇭
-</p>
+<br>
 
-<p align="center">
-  <a href="https://chhunsour-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-View_Work-FC6E00?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://github.com/Denvor369">
-    <img src="https://img.shields.io/badge/GitHub-Denvor369-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://t.me/ChhunsourSENG">
-    <img src="https://img.shields.io/badge/Telegram-Contact-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-</p>
+<a href="https://chhunsour-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-FC6E00?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://t.me/ChhunsourSENG">
+  <img src="https://img.shields.io/badge/Telegram-Let's%20Connect-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+<a href="https://github.com/Denvor369?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-View%20Repositories-181717?style=for-the-badge&logo=github"/>
+</a>
 
----
+<br><br>
 
-## About Me
+<img src="https://komarev.com/ghpvc/?username=Denvor369&label=PROFILE+VIEWS&color=FC6E00&style=flat-square" alt="Profile Views"/>
 
-I am a Cambodian full-stack developer who combines **software development, product thinking, and UI/UX design** to create practical digital products.
+</div>
 
-I work across the full development process—from planning interfaces and database structures to building, deploying, and maintaining production applications.
+## ⚡ About Me
 
-My current focus includes:
+```ts
+const sengChhunsour = {
+  location: "Phnom Penh, Cambodia 🇰🇭",
+  role: ["Full-Stack Developer", "Product Builder", "UI/UX Designer"],
+  building: [
+    "Telegram Mini Apps",
+    "SaaS Platforms",
+    "Mobile Applications",
+    "E-Commerce & Business Systems"
+  ],
+  mission: "Build useful products that solve real business problems."
+};
+```
 
-* Telegram Mini Apps and online stores
-* SaaS and multi-tenant business platforms
-* E-commerce websites and marketplaces
-* Mobile applications and admin dashboards
-* Attendance, workflow, and internal management systems
+## 🧩 Current Focus
 
-I am also studying **Information Technology at Western University** while continuing to build real-world products and improve my backend and system architecture skills.
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🚀 Building
 
-## Technology Stack
+* Employee attendance SaaS
+* Telegram Mini App stores
+* E-commerce platforms
+* Admin and management systems
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,vite,tailwind,nodejs,php,laravel,py,django,supabase,postgres,figma,git,github,vercel,cloudflare,vscode&perline=10" alt="Technology Stack">
-</p>
+</td>
+<td width="50%" valign="top">
 
-<table align="center">
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Frontend & Mobile</strong><br><br>
-      TypeScript · JavaScript · React<br>
-      Next.js · Vue.js · Nuxt<br>
-      React Native · Expo<br>
-      Tailwind CSS · HTML · CSS
-    </td>
-    <td valign="top" width="50%">
-      <strong>Backend & Database</strong><br><br>
-      Laravel · PHP · Node.js<br>
-      Python · Django<br>
-      Supabase · PostgreSQL<br>
-      Authentication · REST APIs · RLS
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <strong>Design & Product</strong><br><br>
-      Figma · UI/UX Design<br>
-      Responsive Design<br>
-      Design Systems · Prototyping<br>
-      Photoshop · Illustrator
-    </td>
-    <td valign="top">
-      <strong>Tools & Deployment</strong><br><br>
-      Git · GitHub · VS Code<br>
-      Vercel · Cloudflare<br>
-      Hostinger · WordPress<br>
-      AI-assisted Development
-    </td>
-  </tr>
+### 🧠 Exploring
+
+* Multi-tenant architecture
+* Mobile app development
+* AI-assisted development
+* Product and system design
+
+</td>
+</tr>
 </table>
 
----
+## 🛠️ Tech Arsenal
 
-## Featured Work
+<div align="center">
 
-### 🚜 [KonstructZ](https://konstructz.com)
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nuxt,vite,tailwind,nodejs,php,laravel,py,django,supabase,postgres,figma,git,github,vercel,cloudflare,vscode&perline=11" alt="Technology Stack"/>
 
-Heavy-machinery e-commerce platform with responsive product pages, multilingual content, category navigation, animations, and product management.
+</div>
 
-`Next.js` `TypeScript` `E-Commerce` `UI/UX`
+## 🔥 Featured Builds
 
-### 📋 [KiuQ Workflow System](https://matrix.kiuq.net)
+| Project                                                  | Description                                       | Stack                |
+| -------------------------------------------------------- | ------------------------------------------------- | -------------------- |
+| [**KonstructZ**](https://konstructz.com)                 | Heavy-machinery e-commerce platform               | Next.js · TypeScript |
+| [**KiuQ Workflow**](https://matrix.kiuq.net)             | Internal project and team management system       | Vue · Supabase       |
+| [**TovMuk Solution**](https://tovmuk.vercel.app/)        | Telegram Mini Apps and digital business solutions | Full-Stack · UI/UX   |
+| [**Portfolio**](https://chhunsour-portfolio.vercel.app/) | Selected development and design work              | Web · Product Design |
 
-Internal workflow platform for managing projects, tasks, team members, reports, documents, notifications, and daily operations.
+## 📊 Developer Activity
 
-`Vue 3` `TypeScript` `Supabase` `PostgreSQL`
+<div align="center">
 
-### 🚀 [TovMuk Solution](https://tovmuk.vercel.app/)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Denvor369&show_icons=true&hide_border=true&theme=transparent&title_color=FC6E00&icon_color=FC6E00&text_color=8B949E" alt="GitHub Stats"/>
 
-A digital solutions brand focused on Telegram Mini Apps, online stores, websites, payment integrations, and practical systems for Cambodian businesses.
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denvor369&layout=compact&hide_border=true&theme=transparent&title_color=FC6E00&text_color=8B949E" alt="Top Languages"/>
 
-`Telegram Mini Apps` `Business Systems` `UI/UX`
+</div>
 
-### 👨‍💻 [Personal Portfolio](https://chhunsour-portfolio.vercel.app/)
+<div align="center">
 
-My personal website featuring selected projects, professional experience, technical skills, and development work.
+### Let’s build something useful.
 
-`Portfolio` `Web Development` `Product Design`
+[Portfolio](https://chhunsour-portfolio.vercel.app/) ·
+[GitHub](https://github.com/Denvor369) ·
+[Telegram](https://t.me/ChhunsourSENG)
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:FC6E00,100:06214E&section=footer" width="100%" alt="Footer"/>
 
-## Currently Building
-
-* A multi-tenant employee attendance SaaS
-* Telegram Mini App storefronts for businesses
-* E-commerce and marketplace platforms
-* Mobile and web-based internal management systems
-
----
-
-## Selected Production Websites
-
-<p align="center">
-  <a href="https://machineryonline.online">Machinery Online</a>
-  &nbsp;·&nbsp;
-  <a href="https://machinery.org">Machinery.org</a>
-  &nbsp;·&nbsp;
-  <a href="https://tinyexcavator.com">Tiny Excavator</a>
-  &nbsp;·&nbsp;
-  <a href="https://newexcavatorsforsale.com">New Excavators for Sale</a>
-  &nbsp;·&nbsp;
-  <a href="https://darilaofficial.com">Darila Official</a>
-</p>
-
----
-
-## Connect With Me
-
-<p align="center">
-  Interested in working together, discussing a project, or building a digital product?
-</p>
-
-<p align="center">
-  <a href="https://chhunsour-portfolio.vercel.app/">Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Denvor369?tab=repositories">Repositories</a>
-  &nbsp;·&nbsp;
-  <a href="https://t.me/ChhunsourSENG">Telegram</a>
-</p>
-
-<p align="center">
-  <strong>Building useful products through code, design, and continuous learning.</strong>
-</p>
+</div>
