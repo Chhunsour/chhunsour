@@ -1,132 +1,142 @@
 <div align="center">
 
-<img src="./seng-hero.svg" width="100%" alt="Animated Seng Chhunsour developer banner">
+<img
+  src="./seng-hero.svg"
+  width="100%"
+  alt="Seng Chhunsour — Full-Stack Developer and Product Builder"
+/>
 
 <br>
 
 <a href="https://chhunsour-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-VIEW_WORK-FC6E00?style=for-the-badge&logo=vercel&logoColor=white&labelColor=06214E" alt="Portfolio">
+  <img
+    src="https://img.shields.io/badge/Portfolio-View_My_Work-FC6E00?style=for-the-badge&logo=vercel&logoColor=white&labelColor=06214E"
+    alt="Portfolio"
+  />
 </a>
-<a href="https://tovmuk.vercel.app/">
-  <img src="https://img.shields.io/badge/TOVMUK-SOLUTIONS-FC6E00?style=for-the-badge&logo=telegram&logoColor=white&labelColor=06214E" alt="TovMuk Solution">
+
+<a href="https://github.com/Chhunsour?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/GitHub-My_Projects-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=06214E"
+    alt="GitHub Projects"
+  />
 </a>
+
 <a href="https://t.me/ChhunsourSENG">
-  <img src="https://img.shields.io/badge/TELEGRAM-CONTACT-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=06214E" alt="Telegram">
+  <img
+    src="https://img.shields.io/badge/Telegram-Contact_Me-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=06214E"
+    alt="Telegram"
+  />
 </a>
 
 <br><br>
 
-<strong>Full-stack developer building polished digital products from idea to deployment.</strong>
-
-<br>
-
-<sub>Web · Mobile · Backend · Database · UI/UX · Product Development</sub>
-
-<br><br>
-
-<kbd>Telegram Mini Apps</kbd> <kbd>SaaS Platforms</kbd> <kbd>E-Commerce</kbd> <kbd>Business Systems</kbd>
+<img
+  src="https://komarev.com/ghpvc/?username=Chhunsour&label=PROFILE+VISITORS&color=FC6E00&style=flat-square"
+  alt="Profile visitors"
+/>
 
 </div>
 
 ---
 
-## ⚡ What I Build
+## ⚡ What I Create
 
-<table>
-<tr>
-<td width="33%" align="center">
-<h3>📱 Mini Apps</h3>
-Telegram storefronts with products, carts, orders, payments, and admin management.
-</td>
-<td width="33%" align="center">
-<h3>⚙️ Business Systems</h3>
-Attendance, workflow, management, reporting, and multi-tenant SaaS platforms.
-</td>
-<td width="33%" align="center">
-<h3>✨ Digital Products</h3>
-Modern websites, mobile applications, dashboards, and e-commerce platforms.
-</td>
-</tr>
-</table>
+I build complete digital products—from interface design and database architecture to development, deployment, and maintenance.
 
-## 🚀 Featured Builds
+> ### 📱 Telegram Mini Apps
+> Online storefronts with products, carts, checkout, order management, payments, and business admin tools.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+> ### ⚙️ SaaS & Business Systems
+> Attendance systems, internal workflows, dashboards, reporting platforms, and multi-tenant applications.
 
-### [TovMuk Solution](https://tovmuk.vercel.app/)
+> ### 🛒 Websites & E-Commerce
+> Responsive company websites, online stores, marketplaces, landing pages, and content-management systems.
 
-Telegram Mini Apps, online stores, websites, and practical digital systems for Cambodian businesses.
+---
 
-`Mini Apps` `Full-Stack` `UI/UX`
+## 🚀 Featured Projects
 
-</td>
-<td width="50%" valign="top">
+### 🟠 [TovMuk Solution](https://tovmuk.vercel.app/)
 
-### Attendance SaaS
+Digital solutions for Cambodian businesses, focused on Telegram Mini Apps, online stores, websites, and practical management systems.
 
-A multi-tenant mobile attendance platform with scheduling, GPS, Wi-Fi verification, leave, payroll, and HR management.
+`Telegram Mini Apps` `Full-Stack` `UI/UX`
 
-`React Native` `Nuxt` `Supabase`
+---
 
-</td>
-</tr>
+### 🟠 Attendance SaaS
 
-<tr>
-<td width="50%" valign="top">
+A multi-tenant employee attendance platform with clock in and clock out, GPS and Wi-Fi verification, scheduling, leave, payroll, holidays, and HR management.
 
-### [KonstructZ](https://konstructz.com)
+`React Native` `Expo` `Nuxt` `Supabase`
 
-A multilingual heavy-machinery e-commerce platform with responsive product management and modern interactions.
+---
+
+### 🟠 [KonstructZ](https://konstructz.com)
+
+A multilingual heavy-machinery e-commerce platform with product management, categories, responsive layouts, and modern interactions.
 
 `Next.js` `TypeScript` `E-Commerce`
 
-</td>
-<td width="50%" valign="top">
+---
 
-### [KiuQ Workflow](https://matrix.kiuq.net)
+### 🟠 [KiuQ Workflow System](https://matrix.kiuq.net)
 
-An internal system for projects, tasks, reports, documents, team members, and daily operations.
+An internal platform for managing website projects, tasks, reports, documents, notifications, employees, and daily workflows.
 
 `Vue 3` `TypeScript` `Supabase`
 
-</td>
-</tr>
-</table>
+---
 
-## 🧰 Technology
+## 🧰 Technology Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nuxtjs,vite,tailwind,nodejs,php,laravel,py,django,supabase,postgres,figma,git,github,vercel,cloudflare,vscode&perline=11" alt="Technology stack">
+<img
+  src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nuxtjs,vite,tailwind,nodejs,php,laravel,py,django,supabase,postgres,figma,git,github,vercel,cloudflare,vscode&perline=7"
+  alt="Seng Chhunsour technology stack"
+/>
 
 </div>
+
+---
 
 ## 📡 Development Signal
 
 <div align="center">
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Denvor369&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FC6E00&icon_color=FC6E00&text_color=C9D1D9&ring_color=FC6E00" alt="GitHub statistics">
+<a href="https://github.com/Chhunsour">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Chhunsour&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FC6E00&icon_color=FC6E00&text_color=C9D1D9&ring_color=FC6E00&include_all_commits=true&count_private=true"
+    alt="Seng Chhunsour GitHub statistics"
+  />
+</a>
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Denvor369&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FC6E00&text_color=C9D1D9" alt="Most used languages">
+<br><br>
 
-<br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Denvor369&bg_color=0D1117&color=C9D1D9&line=FC6E00&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Flow" alt="Contribution activity graph">
+<a href="https://github.com/Chhunsour?tab=repositories">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chhunsour&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FC6E00&text_color=C9D1D9"
+    alt="Seng Chhunsour most used languages"
+  />
+</a>
 
 </div>
 
+---
+
 <details>
-<summary><strong>🌐 More production websites</strong></summary>
+<summary><strong>🌐 More Production Websites</strong></summary>
 
 <br>
 
-[Machinery Online](https://machineryonline.online) ·
-[Machinery.org](https://machinery.org) ·
-[Tiny Excavator](https://tinyexcavator.com) ·
-[New Excavators for Sale](https://newexcavatorsforsale.com) ·
-[Darila Official](https://darilaofficial.com)
+- [Machinery Online](https://machineryonline.online)
+- [Machinery.org](https://machinery.org)
+- [Tiny Excavator](https://tinyexcavator.com)
+- [New Excavators for Sale](https://newexcavatorsforsale.com)
+- [New Mini Excavator](https://newminiexcavator.com)
+- [Darila Official](https://darilaofficial.com)
 
 </details>
 
@@ -134,14 +144,18 @@ An internal system for projects, tasks, reports, documents, team members, and da
 
 <div align="center">
 
-### Turning ideas into useful products.
+### Building useful products through code, design, and product thinking.
 
-<a href="https://chhunsour-portfolio.vercel.app/">Portfolio</a>
- ·  <a href="https://github.com/Denvor369?tab=repositories">Projects</a>
- ·  <a href="https://t.me/ChhunsourSENG">Telegram</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Denvor369&label=PROFILE+VISITORS&color=FC6E00&style=flat-square" alt="Profile visitors">
+<a href="https://chhunsour-portfolio.vercel.app/">
+  Portfolio
+</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/Chhunsour?tab=repositories">
+  Projects
+</a>
+&nbsp;•&nbsp;
+<a href="https://t.me/ChhunsourSENG">
+  Telegram
+</a>
 
 </div>
