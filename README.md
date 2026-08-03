@@ -70,9 +70,62 @@ I build complete digital products—from interface design and database architect
 
 <div align="center">
 
+### Frontend & Mobile
+
 <img
-  src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nuxtjs,vite,tailwind,nodejs,php,laravel,py,django,supabase,postgres,figma,git,github,vercel,cloudflare,vscode&perline=7"
-  alt="Seng Chhunsour technology stack"
+  src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nuxtjs,vite,tailwind&perline=4"
+  alt="Frontend technologies"
 />
+
+<br>
+
+<sub>
+TypeScript · JavaScript · React · Next.js · Vue · Nuxt · Vite · Tailwind CSS
+</sub>
+
+<br><br>
+
+### Backend & APIs
+
+<img
+  src="https://skillicons.dev/icons?i=nodejs,php,laravel,py,django&perline=5"
+  alt="Backend technologies"
+/>
+
+<br>
+
+<sub>
+Node.js · PHP · Laravel · Python · Django
+</sub>
+
+<br><br>
+
+### Database & Cloud
+
+<img
+  src="https://skillicons.dev/icons?i=supabase,postgres,vercel,cloudflare&perline=4"
+  alt="Database and cloud technologies"
+/>
+
+<br>
+
+<sub>
+Supabase · PostgreSQL · Vercel · Cloudflare
+</sub>
+
+<br><br>
+
+### Design & Development Tools
+
+<img
+  src="https://skillicons.dev/icons?i=figma,git,github,vscode&perline=4"
+  alt="Design and development tools"
+/>
+
+<br>
+
+<sub>
+Figma · Git · GitHub · Visual Studio Code
+</sub>
 
 </div>
